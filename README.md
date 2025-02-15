@@ -36,7 +36,7 @@ git clone https://github.com/aozkurt/toplu-tasima-analizi.git
 ## Kullanım
 
 Aşağıdaki komutu çalıştırarak en uygun güzergahı hesaplayabilirsiniz:
-
+```
 ```bash
 python main.py
 ```

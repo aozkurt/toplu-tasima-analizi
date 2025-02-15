@@ -24,7 +24,14 @@ Cumhuriyet Mahallesi = 0.644845
 ```
 Pınar Mahallesi = 0.680539
 ```
+## Kurulum
 
+Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
+
+Depoyu klonlayın:
+```bash
+git clone https://github.com/aozkurt/toplu-tasima-analizi.git
+```
 ```md
 ## Kullanım
 

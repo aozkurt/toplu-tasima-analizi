@@ -32,11 +32,9 @@ Depoyu klonlayın:
 ```bash
 git clone https://github.com/aozkurt/toplu-tasima-analizi.git
 ```
-```md
 ## Kullanım
 
 Aşağıdaki komutu çalıştırarak en uygun güzergahı hesaplayabilirsiniz:
-```
 ```bash
 python main.py
 ```

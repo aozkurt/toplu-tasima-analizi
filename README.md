@@ -41,3 +41,4 @@ python main.py
 
 ### **Proje Mimarisi ve Açıklamalar**
 - Softmax metodu kullanıldı.
+- 
